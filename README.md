@@ -44,16 +44,22 @@ SplitPay is deployed on the Stellar Testnet.
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Product Walkthrough
 
-> ⚠️ Important: GitHub does NOT support local file paths like `file:///...`  
-> Use relative paths instead.
+### 🔐 Wallet Connection
+![Wallet](./screenshots/wallet-connection.png)
 
-### Contract Deployment
-![Contract Screenshot](./docs/contract.png)
+### ➕ Create Group
+![Create Group](./screenshots/create-group.png)
 
-### Dashboard UI
-![Dashboard](./docs/landing.png)
+### 📊 Dashboard Overview
+![Dashboard](./screenshots/dashboard.png)
+
+### 💸 Expense Tracking
+![Group Details](./screenshots/group-details-and-expenses.png)
+
+### ✅ Settlement Flow
+![Settlement](./screenshots/settlement.png)
 
 ---
 
